@@ -134,7 +134,7 @@ body{
 .trading__card__img{
   width: 362px;
   height: 186px;
-  background-image: url(/img/Rectangle\ 1.jpg);
+  background-image: url(img/Rectangle\ 1.jpg);
   position: relative;
 
 
@@ -221,7 +221,7 @@ body{
   width: 758px;
   height: 430px;
 
-  background-image: url(/img/happening\ 1.jpg);
+  background-image: url(../img/happening\ 1.jpg);
 }
 .footer{
   padding: 59px 138px 44px 137px;
